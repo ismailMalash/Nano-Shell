@@ -52,7 +52,7 @@ ismail's_Nano_Shell$ ls /$folder
 ismail-malash
 ismail's_Nano_Shell$ export x 
 ismail's_Nano_Shell$ printenv x=5
--
+
 -
 -
 x=5
