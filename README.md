@@ -44,18 +44,26 @@ shell
 Copy
 
 ## Example Output
-ismail's_Nano_Shell$ x=5 
-ismail's_Nano_Shell$ echo $x 
-5 
-ismail's_Nano_Shell$ folder=home 
+
+```bash
+ismail's_Nano_Shell$ x=5
+bash
+Copy
+ismail's_Nano_Shell$ echo $x
+5
+bash
+Copy
+ismail's_Nano_Shell$ folder=home
+bash
+Copy
 ismail's_Nano_Shell$ ls /$folder
-ismail-malash
-ismail's_Nano_Shell$ export x 
-ismail's_Nano_Shell$ printenv x=5
-
--
--
+# lists the /home directory (example output, may vary based on system)
+bash
+Copy
+ismail's_Nano_Shell$ export x
+bash
+Copy
+ismail's_Nano_Shell$ printenv
 x=5
-
-csharp
+vbnet
 Copy
