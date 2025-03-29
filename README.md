@@ -77,6 +77,8 @@ You can then enter commands like `echo`, `export`, or `printenv` to interact wit
 ### 5. **Print Environment Variables:**
    ```bash
    ismail's_Nano_Shell$ printenv
+   -
+   -
    x=5
    ```
 
