@@ -19,6 +19,7 @@ To compile the Pico Shell, use the following command:
 ```bash
 gcc -o myNanoShell myNanoShell.c
 This will produce an executable named ismail_shell.
+```
 
 Usage
 Start the shell by running the compiled executable:
